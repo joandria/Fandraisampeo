@@ -1,4 +1,4 @@
-[!Fandraisampeo](Fandraisampeo.png)
+![Fandraisampeo](Fandraisampeo.png)
 # What is Fandraisampeo ?
 
 Fandraisampeo is a Audio / Sound recorder tool. You can then save sample to a multiple audio format like `.wav` -  `.mp3` - `.ogg` - `.opus` file, and more.
